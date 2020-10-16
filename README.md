@@ -57,7 +57,7 @@ We built 30A Relay HAT to work with any device featuring an I2C bus. It can be u
 
 Exceeding these limits may overload the PCB.
 
-__* 30A is no small fry! You must take into account the type of load you're switching. Study the [relay datasheet](https://github.com/plasmadancom/30A-Relay-HAT/raw/master/docs/HF165FD-datasheet.pdf)! In open air 30A Relay HAT can safely handle 30A (resistive load) but beware of heat build-up with prolonged use.__
+__* 30A is no small fry! You must take into account the type of load you're switching. Study the [relay datasheet](https://github.com/plasmadancom/30A-Relay-HAT/blob/master/docs/HF165FD-datasheet.pdf)! In open air 30A Relay HAT can safely handle 30A (resistive load) but beware of heat build-up with prolonged use.__
 
 ## DC Switching
 

@@ -114,7 +114,8 @@ __* Note: Back-powering is for 30A Relay HAT, not for Raspberry Pi. Remove the L
 
 To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. Use the SDA &amp; SDL breakout pins for I2C communication.
 
-## Mechanical
+## Dimensions
+
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/HAT-RACK/master/img/30a-relay-hat-v1.1-dimensions.svg">

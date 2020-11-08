@@ -11,6 +11,7 @@ A Raspberry Pi HAT I/O board which offers an impressive 30A switching capability
 
 * 2 opto-isolated SPDT power relays
 * 30A / 15A @ 250V AC (NO / NC) [*](#maximum-ratings)
+* Supports up to 6mm<sup>2</sup> / 10 AWG cable
 * 2oz copper PCB ensures maximum current flow
 * Easy to use [interactive web GUI](#interactive-web-gui)
 * Based on the MCP23008 8-port [GPIO expander](#built-in-gpio-expander)

@@ -45,7 +45,7 @@ sudo ./eepflash.sh -w -t=24c32 -f=30a-relay-hat.eep
 sudo wget https://github.com/plasmadancom/30A-Relay-HAT/raw/master/eeprom/30a-relay-hat.txt
 ```
 
-Make your desired changes to 30a-relay-hat.txt and complile.
+Make your desired changes to 30a-relay-hat.txt and compile.
 
 ```
 sudo ./eepmake 30a-relay-hat.txt 30a-relay-hat.eep
@@ -56,6 +56,23 @@ Write to EEPROM.
 ```
 sudo ./eepflash.sh -w -t=24c32 -f=30a-relay-hat.eep
 ```
+
+### Testing
+
+Reboot to load the device-tree from the EEPROM.
+
+```
+sudo reboot
+```
+
+Read product name from the EEPROM.
+
+```
+cd /proc/device-tree/hat/
+more product
+```
+
+You should see the product name: 30A Relay HAT.
 
 ## Reference
 

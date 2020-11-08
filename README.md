@@ -1,6 +1,6 @@
 # 30A Relay HAT
 
-* [Web GUI Live Demo](https://io.plasmadan.com/30arelayhat)
+* [Web GUI Live Demo](https://io.plasmadan.com/30arelayhat/)
 * [Easy Installer](#easy-installer)
 * [Arduino Wiring](#arduino-wiring)
 * [Setup Guide](https://github.com/plasmadancom/HAT-GUI/#setup-guide)
@@ -30,7 +30,7 @@ A Raspberry Pi HAT I/O board which offers an impressive 30A switching capability
 
 Once installed on your Raspberry Pi, this interactive GUI allows quick &amp; easy control of your 30A Relay HAT without the need for any coding. It is designed to be both a user guide &amp; quick reference to the 30A Relay HAT pinout. The GUI is fully responsive and adapts to any screen size.
 
-Check-out the [Live Demo.](https://io.plasmadan.com/30arelayhat)
+Check-out the [Live Demo.](https://io.plasmadan.com/30arelayhat/)
 
 ## Easy Installer
 

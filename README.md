@@ -22,8 +22,8 @@ A Raspberry Pi HAT I/O board which offers an impressive 30A switching capability
 
 ## Interactive Web GUI
 <p align="center">
-    <a href="https://io.plasmadan.com/30arelayhat" target="_blank" rel="nofollow">
-        <img alt="30A Relay HAT Web GUI" src="https://github.com/plasmadancom/HAT-GUI/raw/master/img/hat-gui.gif">
+    <a href="https://io.plasmadan.com/30arelayhat/" target="_blank" rel="nofollow">
+        <img alt="30A Relay HAT Web GUI" src="/img/30a-relay-hat-mockup.gif" width="600">
     </a>
 </p>
 

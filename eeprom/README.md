@@ -57,7 +57,7 @@ Write to EEPROM.
 sudo ./eepflash.sh -w -t=24c32 -f=30a-relay-hat.eep
 ```
 
-### Testing
+## Testing
 
 Reboot to load the device-tree from the EEPROM.
 

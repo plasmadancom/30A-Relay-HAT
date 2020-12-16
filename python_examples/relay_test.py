@@ -30,8 +30,8 @@ i2c_addr = 0x20
 relays = [100, 101]                                          # Relay WiringPi ports
 
 # Timing
-hold_on = 0.2                                                # Time to hold relays on (seconds)
-hold_off = 0.2                                               # Delay between each relay on (seconds)
+hold_on = 0.5                                                # Time to hold relays on (seconds)
+hold_off = 0.5                                               # Delay between each relay on (seconds)
 
 rlen = len(relays)
 

@@ -5,6 +5,10 @@
 * [Arduino Wiring](#arduino-wiring)
 * [Setup Guide](https://github.com/plasmadancom/HAT-GUI/#setup-guide)
 
+<p align="center">
+    <img alt="30A Relay HAT" src="/img/30a-relay-hat.jpg" width="500">
+</p>
+
 A Raspberry Pi HAT I/O board which offers an impressive 30A switching capability. Ideally suited to automation or industrial control, switching of household appliances, industrial machinery or automotive applications.
 
 ## Features

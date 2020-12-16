@@ -75,7 +75,7 @@ Alternatively try our [CTRL HAT](https://github.com/plasmadancom/CTRL-HAT) board
 
 Mains voltage electricity is extremely dangerous. There is significant risk of death through electrocution, fire or explosion if not wired and fused correctly.
 
-If using with mains voltages Appliance HAT must be installed in an electrically insulated enclosure by a qualified electrician and maintain at-least a 2mm air gap between all conductive parts of the Raspberry Pi ([source](http://www.creepage.com)).
+If using with mains voltages 30A Relay HAT must be installed in an electrically insulated enclosure by a qualified electrician and maintain at-least a 2mm air gap between all conductive parts of the Raspberry Pi ([source](http://www.creepage.com)).
 
 ## Isolating the Relays
 
@@ -124,7 +124,7 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/HAT-RACK/master/img/30a-relay-hat-v1.1-dimensions.svg">
+    <a href="https://raw.githubusercontent.com/plasmadancom/30A-Relay-HAT/master/img/30a-relay-hat-v1.1-dimensions.svg">
         <img alt="Mechanical Drawing" src="/img/30a-relay-hat-v1.1-dimensions.svg" width="600">
     </a>
 </p>

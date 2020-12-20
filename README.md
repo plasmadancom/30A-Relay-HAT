@@ -3,6 +3,7 @@
 * [Web GUI Live Demo](https://io.plasmadan.com/30arelayhat/)
 * [Easy Installer](#easy-installer)
 * [Arduino Wiring](#arduino-wiring)
+* [Schematic](https://github.com/plasmadancom/30A-Relay-HAT/blob/master/docs/30a-relay-hat-v1.2-schematic.pdf)
 * [Setup Guide](https://github.com/plasmadancom/HAT-GUI/#setup-guide)
 
 <p align="center">
@@ -13,7 +14,7 @@ A Raspberry Pi HAT I/O board which offers an impressive 30A switching capability
 
 ## Features
 
-* 2 opto-isolated SPDT power relays
+* 2 opto-isolated SPDT power relays with indicator LEDs
 * 30A / 15A @ 250V AC (NO / NC) [*](#maximum-ratings)
 * Supports up to 6mm<sup>2</sup> / 10 AWG cable
 * 2oz copper PCB ensures maximum current flow
@@ -124,8 +125,8 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/30A-Relay-HAT/master/img/30a-relay-hat-v1.1-dimensions.svg">
-        <img alt="Mechanical Drawing" src="/img/30a-relay-hat-v1.1-dimensions.svg" width="600">
+    <a href="https://raw.githubusercontent.com/plasmadancom/30A-Relay-HAT/master/img/30a-relay-hat-v1.2-dimensions.svg">
+        <img alt="Mechanical Drawing" src="/img/30a-relay-hat-v1.2-dimensions.svg" width="600">
     </a>
 </p>
 

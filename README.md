@@ -141,6 +141,11 @@ To use with Arduino or any other 5V device the 3V3 jumper must be moved to 5V. U
 
 Integrating 30A Relay HAT with your own projects is easy, just follow any guide which uses the MCP23008 or MCP23017 expander. We have provided some example Python scripts to get you started (see [here](https://github.com/plasmadancom/30A-Relay-HAT/tree/master/python_examples)).
 
+## Product Data
+
+MPN: 30A-RELAY-HAT
+EAN: 0616908588429
+
 ## License
 
 MIT © Dan Jones - [PlasmaDan.com](https://plasmadan.com)

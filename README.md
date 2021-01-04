@@ -10,7 +10,7 @@
     <img alt="30A Relay HAT" src="/img/30a-relay-hat.jpg" width="500">
 </p>
 
-A Raspberry Pi HAT I/O board which offers an impressive 30A switching capability. Ideally suited to automation or industrial control, switching of household appliances, industrial machinery or automotive applications.
+The 30A Relay HAT is a dual SPDT power relay I/O board based on the Microchip MCP23008 I2C expander. Ideally suited to automation or industrial control, switching of household appliances, industrial machinery or automotive applications.
 
 ## Features
 
@@ -143,7 +143,7 @@ Integrating 30A Relay HAT with your own projects is easy, just follow any guide 
 
 ## Product Data
 
-MPN: 30A-RELAY-HAT
+MPN: 30A-RELAY-HAT  
 EAN: 0616908588429
 
 ## License

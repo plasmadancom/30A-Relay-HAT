@@ -29,7 +29,7 @@ The 30A Relay HAT is a dual SPDT power relay I/O board based on the Microchip MC
 
 <p align="center">
     <a href="https://io.plasmadan.com/30arelayhat/" target="_blank" rel="nofollow">
-        <img alt="30A Relay HAT Web GUI" src="/img/30a-relay-hat-mockup.gif" width="600">
+        <img alt="30A Relay HAT Web GUI" src="/img/30a-relay-hat-mockup2.gif" width="600">
     </a>
 </p>
 

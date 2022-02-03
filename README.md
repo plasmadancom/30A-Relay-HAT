@@ -15,7 +15,7 @@ The 30A Relay HAT is a dual SPDT power relay I/O board based on the Microchip MC
 ## Features
 
 * 2 opto-isolated SPDT power relays with indicator LEDs
-* 30A / 15A @ 250V AC (NO / NC) [*](#maximum-ratings)
+* 30A / 15A @ 277V AC (NO / NC) [*](#maximum-ratings)
 * Supports up to 6mm<sup>2</sup> / 10 AWG cable
 * 2oz copper PCB ensures maximum current flow
 * Easy to use [interactive web GUI](#interactive-web-gui)
@@ -60,7 +60,7 @@ We built 30A Relay HAT to work with any device featuring an I2C bus. It can be u
 
 ## Maximum Ratings
 
-* 30A / 15A @ 250V AC (NO / NC) *
+* 30A / 15A @ 277V AC (NO / NC) *
 
 Exceeding these limits may overload the PCB.
 

@@ -15,7 +15,7 @@ The 30A Relay HAT is a dual SPDT power relay I/O board based on the Microchip MC
 ## Features
 
 * 2 opto-isolated SPDT power relays with indicator LEDs
-* 30A / 15A @ 277V AC (NO / NC) [*](#maximum-ratings)
+* 30A @ 277V AC [*](#maximum-ratings)
 * Supports up to 6mm<sup>2</sup> / 10 AWG cable
 * 2oz copper PCB ensures maximum current flow
 * Easy to use [interactive web GUI](#interactive-web-gui)
@@ -60,7 +60,7 @@ We built 30A Relay HAT to work with any device featuring an I2C bus. It can be u
 
 ## Maximum Ratings
 
-* 30A / 15A @ 277V AC (NO / NC) *
+* 30A @ 277V AC *
 
 Exceeding these limits may overload the PCB.
 
@@ -68,7 +68,7 @@ __* 30A is no small fry! You must take into account the type of load you're swit
 
 ## DC Switching
 
-DC is much more difficult to switch compared to AC. 30A Relay HAT is not rated to switch DC since it uses AC relays, however provided you stick to **low** voltages and keep the current reasonable, you should be fine. However this is entirely at your own risk and will likely reduce the operational life of the relays. Automotive applications at 12V DC should be fine also. We recommend a **maximum** 20A / 10A @ 30V DC (NO / NC).
+DC is much more difficult to switch compared to AC. 30A Relay HAT is not rated to switch DC since it uses AC relays, however provided you stick to **low** voltages and keep the current reasonable, you should be fine. However this is entirely at your own risk and will likely reduce the operational life of the relays. Automotive applications at 12V DC should be fine also. We recommend a **maximum** 20A @ 30V DC.
 
 Alternatively try our [CTRL HAT](https://github.com/plasmadancom/CTRL-HAT) boards which work with DC power-MOSFETs.
 
